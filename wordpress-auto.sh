@@ -1,7 +1,8 @@
 ##############################################
 ##############################################
 
-##### THIS SCRIPT ASSUMES AN EMPTY ROOT PASSWORD FOR MYSQL
+##### THIS SCRIPT IS MADE FOR SMUS SERVERS
+##### SEE https://github.com/actuallymentor/setup-script-LEMH-stack
 
 ##############################################
 ##############################################
